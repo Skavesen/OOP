@@ -1,0 +1,33 @@
+Eng
+Done
+Invalid value!
+Empty value!
+Enter Y or N!
+Enter number from 1 to 
+Invalid item index
+Enter password
+Invalid password!
+Trials exceeded!
+Access denied!
+Выберите другой язык
+Welcome!
+Bye!
+Select user role
+Admin
+Pet owner
+Exit
+Select an action
+Add an animal to the list
+View the statement
+Removing an animal from the list
+Full cleaning of the list
+Return to main menu
+Choose an animal
+Dog
+Cat
+Parrot
+Go back to the previous menu
+Do you really want to clear the list?
+Select an operation
+View the list
+Enter weight

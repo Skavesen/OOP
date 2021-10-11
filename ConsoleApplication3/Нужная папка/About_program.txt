@@ -1,0 +1,19 @@
+Русский язык
+В программе вы можете быть как регистратором, так и владельцем животного.
+Для входа в режим пользователя "регистратор" нажно ввести пароль(password).
+Регистратор может:
+-добавить животное в ведомость;
+-просмотр ведомости;
+-удаление животного из ведомости;
+-полная очистка ведомости.
+Владелец животного может просмотреть ведомость.
+
+English language
+In the program you can be both a Registrar and an owner of the animal.
+To enter the "Registrar" user mode, enter the password(password).
+The Registrar can:
+- add an animal to the list;
+- view the sheet;
+- removal of the animal from the list;
+- complete cleaning of the sheet.
+The owner of the animal can view the sheet.
